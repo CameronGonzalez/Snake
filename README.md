@@ -15,6 +15,7 @@ If you are not using an IDE you can compile the program from the terminal by
 using the commands: 
 
   javac Game.java
+ 
   javac Snake.java
 
 Once these commands are run you should see the class functions Game.class and 
